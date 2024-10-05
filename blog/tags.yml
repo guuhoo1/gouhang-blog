@@ -1,0 +1,15 @@
+facebook:
+  label: Vue
+  permalink: /facebook
+  description: Vue全家桶
+
+hello:
+  label: Uniapp
+  permalink: /hello
+  description: Uniapp使用者
+
+docusaurus:
+  label: React
+  permalink: /docusaurus
+  description: React 相关
+
